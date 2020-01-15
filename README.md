@@ -3,7 +3,7 @@
 ### UDN Newmedia (2018.7~)
 #### 作品列表
 
->`2020-01-12` The Day After－20 years after the September 21st Earthquake. ([新媒體中心](https://udn.com/newmedia/921/en/))  
+>`2020-01-15` The Day After－20 years after the September 21st Earthquake. ([新媒體中心](https://udn.com/newmedia/921/en/))  
 `2020-01-12` 總統票倉解密 韓粉英粉在哪裡？ ([新媒體中心](https://udn.com/newmedia/election2020/vote/))  
 `2019-12-23` 專題迷宮 ([新媒體中心](https://udn.com/newmedia/2019/stories_review/))  
 `2019-12-02` 2020政見疊疊樂 ([新媒體中心](https://udn.com/newmedia/2019/votegame/))  
