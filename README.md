@@ -3,7 +3,9 @@
 ### UDN Newmedia (2018.7~)
 #### 作品列表
 
->`2020-02-24` 圖解台灣新冠肺炎個案身分和關係 ([新媒體中心](https://udn.com/newmedia/2020/covid-19-taiwan/))  
+>`2020-03-03` 新冠肺炎 全球疫情即時追蹤 ([新媒體中心](https://udn.com/newmedia/2020/covid-19/))  
+`2020-03-03` 抗新冠肺炎 台灣防疫決策贏在哪裡？ ([新媒體中心](https://udn.com/newmedia/2020/covid-19-timeline/))  
+`2020-02-24` 圖解台灣新冠肺炎個案身分和關係 ([新媒體中心](https://udn.com/newmedia/2020/covid-19-taiwan/))  
 `2020-02-14` 口罩之亂引民怨 數據看口罩到底去哪？ ([新媒體中心](https://udn.com/newmedia/2020/nCoVmaskchaos/))  
 `2020-01-15` The Day After－20 years after the September 21st Earthquake. ([新媒體中心](https://udn.com/newmedia/921/en/))  
 `2020-01-12` 總統票倉解密 韓粉英粉在哪裡？ ([新媒體中心](https://udn.com/newmedia/election2020/vote/))  
