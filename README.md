@@ -19,7 +19,7 @@
 `2019-05-08` 母親節聊天機器人(已下線) (🌌[聯合報粉絲團](https://www.facebook.com/udnplus/))  
 `2019-03-28` 誰殺了石虎？ ([新媒體中心](https://udn.com/upf/newmedia/2019_data/leopardcat/)，2019年全球華文永續報導獎融媒體首獎)  
 `2019-03-25` 數位人權專題 ([新媒體中心](https://udn.com/upf/newmedia/2019_data/digital_privacy/))  
-`2018-11-19` 同婚公投／修民法或立專法？候選人這樣說 ([新媒體中心](https://udn.com/upf/newmedia/2018_data/same_sex_marriage_referendum/)) 
+`2018-11-19` 同婚公投／修民法或立專法？候選人這樣說 ([新媒體中心](https://udn.com/upf/newmedia/2018_data/same_sex_marriage_referendum/))  
 `2018-11-07` 我的存款夠不夠參選？遊戲告訴你選舉多燒錢 ([新媒體中心](https://udn.com/upf/newmedia/2018_data/2018election/game1/))  
 `2018-10-16` 九合一大選數據圖表 ([聯合新聞網](https://udn.com/vote2018/graphics)/[新媒體中心](https://udn.com/upf/newmedia/2018_data/2018election/index.html))  
 
