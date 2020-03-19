@@ -1,7 +1,6 @@
 # Portfolio
 
-### UDN Newmedia (2018.7~)
-#### 作品列表
+## UDN Newmedia (2018.7~)
 
 >`2020-03-03` 新冠肺炎 全球疫情即時追蹤 ([新媒體中心](https://udn.com/newmedia/2020/covid-19/))  
 `2020-03-03` 抗新冠肺炎 台灣防疫決策贏在哪裡？ ([新媒體中心](https://udn.com/newmedia/2020/covid-19-timeline/))  
@@ -23,6 +22,6 @@
 `2018-11-07` 我的存款夠不夠參選？遊戲告訴你選舉多燒錢 ([新媒體中心](https://udn.com/upf/newmedia/2018_data/2018election/game1/))  
 `2018-10-16` 九合一大選數據圖表 ([聯合新聞網](https://udn.com/vote2018/graphics)/[新媒體中心](https://udn.com/upf/newmedia/2018_data/2018election/index.html))  
 
-### Side Projects
-#### 作品列表
+## Side Projects
+
 >`2018-03-31` Puzzle Tile Map (調整中)  
