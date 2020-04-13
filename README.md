@@ -24,7 +24,7 @@
 | `09-21` | 天亮之後— 921大地震廿周年 | [新媒體中心](https://udn.com/newmedia/921/) |
 | `06-24` | 不要唬爛！你真的了解台灣能源現況嗎？ | [願景工程](https://udn.com/upf/newmedia/2019_data/energy/) |
 | `06-21` | 長榮罷工 你該知道的事 | [新媒體中心](https://udn.com/upf/newmedia/2019_data/EVA_strike/) |
-| `05-08` | 母親節聊天機器人(已下線) | [聯合報粉絲團](https://www.facebook.com/udnplus/) |
+| `05-08` | 母親節卡片聊天機器人(已下線) | [聯合報粉絲團](https://www.facebook.com/udnplus/) |
 | `03-28` | 誰殺了石虎？ | [新媒體中心](https://udn.com/upf/newmedia/2019_data/leopardcat/)  (2019年全球華文永續報導獎融媒體首獎) |
 | `03-28` | 你的數位隱私保障了嗎？ | [新媒體中心](https://udn.com/upf/newmedia/2019_data/digital_privacy/) |
 
