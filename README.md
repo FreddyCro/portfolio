@@ -46,5 +46,7 @@
 
 ## Side Projects
 
->`2020-05-16` eriko-scroller.js
->`2018-03-31` Puzzle Tile Map (調整中)  
+>
+`2020-05-16` eriko-scroller.js
+
+`2018-03-31` Puzzle Tile Map (調整中)  
