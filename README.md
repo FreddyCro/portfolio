@@ -51,4 +51,5 @@
 |------|-------|------|
 | `2020-05-21` | eriko-dragger.js | [npm](https://www.npmjs.com/package/eriko-dragger.js)  
 | `2020-05-16` | eriko-scroller.js | [npm](https://www.npmjs.com/package/eriko-scroller.js)  
+| `2019-10-07` | Choropleth Generator | (調整中)  
 | `2018-03-31` | Puzzle Tile Map | (調整中)  
