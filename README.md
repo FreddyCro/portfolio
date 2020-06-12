@@ -40,6 +40,7 @@
 
 | Date | Title | Link |
 |------|-------|------|
+| `12-15` | Newmedia KOL System | 公司內部系統 |
 | `11-19` | 同婚公投／修民法或立專法？候選人這樣說 | [新媒體中心](https://udn.com/upf/newmedia/2018_data/same_sex_marriage_referendum/) |
 | `11-07` | 我的存款夠不夠參選？遊戲告訴你選舉多燒錢 | [新媒體中心](https://udn.com/upf/newmedia/2018_data/2018election/game1/) |
 | `10-16` | 九合一大選數據圖表 | [聯合新聞網](https://udn.com/vote2018/graphics) / [新媒體中心](https://udn.com/upf/newmedia/2018_data/2018election/index.html) |
