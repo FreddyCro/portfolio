@@ -32,7 +32,7 @@
 | `12-02` | 2020政見疊疊樂 | [新媒體中心](https://udn.com/newmedia/2019/votegame/) |
 | `10-14` | 無媒家園真的可行嗎？ | [新媒體中心](https://udn.com/newmedia/2019/global_energy_transition/) (2020年全球華文永續報導獎融媒體入圍) |
 | `09-26` | 農場動物的眼淚：餐桌美味背後的飼養悲歌 | [願景工程](https://udn.com/newmedia/2019/animal_welfare/) (2020年全球華文永續報導獎融媒體入圍) |
-| `09-21` | 天亮之後— 921大地震廿周年 | [聯合報](https://udn.com/newmedia/921/) (2020金鼎獎推薦作品) |
+| `09-21` | 天亮之後— 921大地震廿周年 | [聯合報](https://udn.com/newmedia/921/) (第44屆金鼎獎推薦優良出版品) |
 | `06-24` | 不要唬爛！你真的了解台灣能源現況嗎？ | [願景工程](https://udn.com/upf/newmedia/2019_data/energy/) |
 | `06-21` | 長榮罷工 你該知道的事 | [新媒體中心](https://udn.com/upf/newmedia/2019_data/EVA_strike/) |
 | `05-08` | 母親節卡片聊天機器人(已下線) | [聯合報粉絲團](https://www.facebook.com/udnplus/posts/1361882633964507) |
