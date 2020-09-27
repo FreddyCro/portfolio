@@ -17,7 +17,7 @@
 
 | Date | Title | Link |
 |------|-------|------|
-| `03-03` | 新冠肺炎 全球疫情即時追蹤 | [聯合報](https://udn.com/newmedia/2020/covid-19/) (2020年全球華文永續報導獎融媒體入圍) |
+| `03-03` | 新冠肺炎 全球疫情即時追蹤 | [聯合報](https://udn.com/newmedia/2020/covid-19/) (2020年全球華文永續報導獎融媒體特別獎) |
 | `03-03` | 抗新冠肺炎 台灣防疫決策贏在哪裡？ | [聯合報](https://udn.com/newmedia/2020/covid-19-timeline/) |
 | `02-24` | 圖解新冠肺炎台灣病例關係 | [聯合報](https://udn.com/newmedia/2020/covid-19-taiwan/)  (1000萬點閱數) |
 | `02-14` | 口罩之亂引民怨 數據看口罩到底去哪？ | [聯合報](https://udn.com/newmedia/2020/nCoVmaskchaos/) |
@@ -30,8 +30,8 @@
 |------|-------|------|
 | `12-23` | 專題迷宮 | [新媒體中心](https://udn.com/newmedia/2019/stories_review/) |
 | `12-02` | 2020政見疊疊樂 | [新媒體中心](https://udn.com/newmedia/2019/votegame/) |
-| `10-14` | 無媒家園真的可行嗎？ | [新媒體中心](https://udn.com/newmedia/2019/global_energy_transition/) (2020年全球華文永續報導獎融媒體入圍) |
-| `09-26` | 農場動物的眼淚：餐桌美味背後的飼養悲歌 | [願景工程](https://udn.com/newmedia/2019/animal_welfare/) (2020年全球華文永續報導獎融媒體入圍) |
+| `10-14` | 無媒家園真的可行嗎？ | [新媒體中心](https://udn.com/newmedia/2019/global_energy_transition/) (2020年全球華文永續報導獎融媒體優等) |
+| `09-26` | 農場動物的眼淚：餐桌美味背後的飼養悲歌 | [願景工程](https://udn.com/newmedia/2019/animal_welfare/) (2020年全球華文永續報導獎融媒體首獎) |
 | `09-21` | 天亮之後— 921大地震廿周年 | [聯合報](https://udn.com/newmedia/921/) (第44屆金鼎獎推薦優良出版品) |
 | `06-24` | 不要唬爛！你真的了解台灣能源現況嗎？ | [願景工程](https://udn.com/upf/newmedia/2019_data/energy/) |
 | `06-21` | 長榮罷工 你該知道的事 | [新媒體中心](https://udn.com/upf/newmedia/2019_data/EVA_strike/) |
